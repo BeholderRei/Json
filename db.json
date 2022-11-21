@@ -1,0 +1,41 @@
+{
+    "produto1": [
+        {
+            "id":1,
+            "nome": "X-Ratão",
+            "preço": "7 reias",
+            "descrição":"Dois hambúrgueres Alface, queijo, molho especial, Cebola, Picles Num pão com gergelim",
+            "calorias": "247 kcal"
+        }
+    ],
+    "produto2":[
+        {
+            "id":2,
+            "nome": "Mc-Rato",
+            "preço": "14 reias",
+            "descrição":"Três hambúrgueres Alface,queijo cheddar, picles, cebola, ketchup, mostarda e pão com gergelim.",
+            "calorias": "523 kcal"
+        }
+    ],
+    "produto3": [
+        {
+            "id":3,
+            "nome": "Big-Rato",
+            "preço": "21 reias",
+            "descrição":"Quatro hambúrgueres Alface,queijo cheddar, maionese Big Rat, picles, cebola, ketchup, mostarda e pão com gergelim.",
+            "calorias": "723 kcal"
+        }
+    ],
+    "produto4":[
+        {
+            "id":4,
+            "nome": "Rei-Rato",
+            "preço":"37 reias",
+            "descrição":"Seis hambúrgueres, 16 tiras de bacon e oito pedaços de queijo",
+            "calorias": "2.187 kcal"
+
+        }
+    ]
+
+}
+
