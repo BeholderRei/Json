@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3200;
 
 server.use(middlewares);
-server.user(router);
+server.use(router);
 
 
 server.listen(port);
